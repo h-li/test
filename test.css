@@ -1,0 +1,9 @@
+body{background-color:gray;}
+p{color:#99CCFF;}
+h3{color:white;font-size:80px;}
+.pink{color:pink;}
+#nav {position:relative;
+float:left;
+height:500px;
+width:150px;
+}
